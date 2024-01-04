@@ -3,7 +3,6 @@
 Makefile
 *.pc
 LibVNCServer*.tar.gz
-rfbconfig.h
 *.o
 *.a
 *.so
